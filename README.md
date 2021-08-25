@@ -1,4 +1,4 @@
-# Hello!! Eu sou Gabriel Blanes👋
+# Hello!! I am Gabriel Blanes👋
 
 <div>
   <a href="https://github.com/Gabriel-Blanes">
