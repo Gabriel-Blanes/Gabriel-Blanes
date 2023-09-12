@@ -25,4 +25,4 @@
 </div>
 
 ##CONHEÇA O MEU SITE, CLICK NO LINK A BAIXO
-<a href='https://gbcyberops.carrd.co/'/a>
+https://gbcyberops.carrd.co
